@@ -9,7 +9,7 @@ Project Visuals
 This diagram illustrates how the system captures classroom video, detects and recognizes faces, counts students, logs attendance, and notifies the mentor.
 
 🔌 Circuit Diagram!
-[alt text](Copilot_20260108_104150.png)
+[circuit diagram](Copilot_20260108_104150.png)
 
 This schematic shows the hardware setup including webcam, microcontroller (e.g., Raspberry Pi), and connections to the smart board and database.
 
