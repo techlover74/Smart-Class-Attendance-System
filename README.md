@@ -14,7 +14,7 @@ This diagram illustrates how the system captures classroom video, detects and re
 This schematic shows the hardware setup including webcam, microcontroller (e.g., Raspberry Pi), and connections to the smart board and database.
 
 🏫 Real-Time Implementation
-![alt text](Copilot_20260108_104500.png)
+[Real-Time Implementation](Copilot_20260108_104500.png)
 
 A snapshot of the system in action: students seated in a classroom, webcam capturing video, smart board displaying detected faces, and mentor receiving attendance updates.
 
